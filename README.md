@@ -1,1 +1,3 @@
 # person-generator
+
+npm install
